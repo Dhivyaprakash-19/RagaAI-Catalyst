@@ -6,7 +6,7 @@ RagaAI Catalyst is a comprehensive platform designed to enhance the management a
 
 - [RagaAI Catalyst](#ragaai-catalyst)
   - [Table of Contents](#table-of-contents)
-  - [Installation](#installation)
+  - [Installation](#installation)   
   - [Configuration](#configuration)
   - [Usage](#usage)
     - [Project Management](#project-management)
